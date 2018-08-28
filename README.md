@@ -1,5 +1,7 @@
 # Realestate-Rent-Analysis
 
+## Note
+Make sure that the main folder's name is 'Project1', and you have an empty 'data' folder under this main folder. 
 
 ## Python fiel Excution Order
 * 1st: 
