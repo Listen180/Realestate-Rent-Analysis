@@ -1,7 +1,10 @@
 # Realestate-Rent-Analysis
 
 ## Note
-Make sure that the main folder's name is 'Project1', and you have an empty 'data' folder under this main folder. 
+* Make sure that the main folder's name is 'Project1'; 
+* Make sure you have 'data' folder under the main folder; 
+* Make sure you have 'data_in' folder under the main folder; 
+
 
 ## Python fiel Excution Order
 * 1st: 
@@ -27,4 +30,4 @@ Make sure that the main folder's name is 'Project1', and you have an empty 'data
 
 * 6th: 
   * model_rent_XGB.py
-  * .R
+  * rent_analysis.R
