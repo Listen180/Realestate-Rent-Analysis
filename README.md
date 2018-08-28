@@ -6,7 +6,7 @@
 * Make sure you have 'data_in' folder under the main folder; 
 
 
-## Python fiel Excution Order
+## Python file Excution Order
 * 1st: 
   * city_around.py
   * city_info.py
